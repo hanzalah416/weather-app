@@ -1,3 +1,7 @@
+This project is a simple weather app that connects with a weather api and has a search engine function for the user to check the current weather at any location in the world
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
